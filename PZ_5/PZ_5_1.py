@@ -8,3 +8,4 @@ def summa(): # функция
 
 
 print(summa())
+
