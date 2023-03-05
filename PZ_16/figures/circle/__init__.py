@@ -1,0 +1,1 @@
+from .code_circle import c_area, c_perimetr
